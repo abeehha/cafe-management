@@ -1,0 +1,7 @@
+ID: 1, Name: John Doe, Email: john@example.com, Dietary Preference: Vegetarian, Loyalty Points: 0
+ID: 2, Name: Jane Smith, Email: jane@example.com, Dietary Preference: Vegan, Loyalty Points: 0
+ID: 3, Name: abeeha, Email: abeeha, Dietary Preference: Vegan, Loyalty Points: 3
+ID: 4, Name: abeeha, Email: 1, Dietary Preference: Vegan, Loyalty Points: 0
+ID: 5, Name: q, Email: q, Dietary Preference: None, Loyalty Points: 0
+ID: 6, Name: abeeha, Email: abeeha, Dietary Preference: Gluten-Free, Loyalty Points: 0
+ID: 7, Name: abeeha, Email: as, Dietary Preference: None, Loyalty Points: 0
